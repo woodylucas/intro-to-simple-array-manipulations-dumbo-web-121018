@@ -18,3 +18,13 @@ def using_shift(array)
   array.shift 
 end 
 
+def shift_with_args 
+end 
+
+def using_concat 
+end 
+
+def using_insert(array, element)
+  array.insert(element)
+end 
+
